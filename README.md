@@ -6,13 +6,11 @@ Here’s the corrected and formatted `README.md` for your **Image Searcher** pro
 
 The key difference between the Deep Learning-based Image Search Engine and the Image Search app using Unsplash APIs lies in their search methodologies and result accuracy. The Deep Learning-based system uses models like CLIP to understand the semantic context of images, allowing it to match visual content based on features, even if there are no explicit tags. This provides more contextually relevant results, as seen with the query "A guy with a sweatshirt and a cap in the mountains," where the system identifies an image of someone in the mountains wearing a jacket. On the other hand, the Unsplash API relies on metadata and tags, which can lead to less accurate or loosely related images, focusing more on keywords in the query. While the Unsplash API offers high-quality images, the results may lack the deep context understanding provided by the machine learning-based approach.
 
-# Image Search app using Unsplash APIs
-![Alt text](image.png)
+# query
+   A photo of a guy with a sweatshirt and a cap in the mountains
+## Image Search app using Unsplash APIs      ## Image Search app using Deep Learning model
+![Alt text](image.png)                       ![Alt text](image-1.png)
 
-
-# Image Search app using Deep Learning model
-
-![Alt text](image-1.png)
 
 # Image Search Engine  using Deep Learning
 
@@ -31,12 +29,12 @@ This project is an image search engine utilizing OpenAI’s CLIP (Contrastive La
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SOUNDARABHARATH/Test-To-image-search.git
+   git clone https://github.com/SOUNDARABHARATH/Image_search_app_ml.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd Test-To-image-search
+   cd Image_search_app_ml
    ```
 
 3. **Create a virtual environment** (optional but recommended):
