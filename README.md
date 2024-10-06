@@ -5,7 +5,7 @@
 
 The key difference between the Deep Learning-based Image Search Engine and the Image Search app using Unsplash APIs lies in their search methodologies and result accuracy. The Deep Learning-based system uses models like CLIP to understand the semantic context of images, allowing it to match visual content based on features, even if there are no explicit tags. This provides more contextually relevant results, as seen with the query "A guy with a sweatshirt and a cap in the mountains," where the system identifies an image of someone in the mountains wearing a jacket. On the other hand, the Unsplash API relies on metadata and tags, which can lead to less accurate or loosely related images, focusing more on keywords in the query. While the Unsplash API offers high-quality images, the results may lack the deep context understanding provided by the machine learning-based approach.
 
-# query
+# Query
    A photo of a guy with a sweatshirt and a cap in the mountains
 ## Image Search app using Unsplash APIs      
 ![Alt text](image.png)                       
