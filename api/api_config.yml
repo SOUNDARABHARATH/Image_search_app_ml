@@ -1,0 +1,11 @@
+image_dir_path: C:/Users/Soundara Barath/Downloads/Images
+save_path: D:/Placement projects/ImageSearcher/out1
+traverse: true
+include_faces: true
+reindex: false  # Change this to true to force re-indexing
+n: 42
+
+port: 8080  # Specify a port if you want the server to run on a specific port
+host: 127.0.0.1  # You can set this to your localhost
+debug: true  # Enable debug for development
+threaded: true

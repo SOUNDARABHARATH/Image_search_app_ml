@@ -1,0 +1,9 @@
+# Dev requirements
+
+-e .
+
+gunicorn
+
+pylint
+twine
+pytest
