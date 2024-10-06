@@ -1,6 +1,5 @@
-Here’s the corrected and formatted `README.md` for your **Image Searcher** project:
 
----
+
 
 # Differnce between Image Search app using Unsplash APIs vs  Deep Learning model
 
@@ -13,6 +12,8 @@ The key difference between the Deep Learning-based Image Search Engine and the I
 
 ## Image Search app using Deep Learning model
    ![Alt text](image-1.png)
+
+---
 
 # Image Search Engine  using Deep Learning
 
