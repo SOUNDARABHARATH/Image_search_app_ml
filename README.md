@@ -8,9 +8,11 @@ The key difference between the Deep Learning-based Image Search Engine and the I
 
 # query
    A photo of a guy with a sweatshirt and a cap in the mountains
-## Image Search app using Unsplash APIs      ## Image Search app using Deep Learning model
-![Alt text](image.png)                       ![Alt text](image-1.png)
+## Image Search app using Unsplash APIs      
+![Alt text](image.png)                       
 
+## Image Search app using Deep Learning model
+   ![Alt text](image-1.png)
 
 # Image Search Engine  using Deep Learning
 
